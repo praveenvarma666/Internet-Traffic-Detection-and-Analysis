@@ -1,0 +1,16 @@
+Index(['Fwd Packet Length Min', 'Bwd Packet Length Min', 'Flow IAT Mean',
+       'Flow IAT Std', 'Fwd Header Length', 'Bwd Packets/s',
+       'Packet Length Min', 'Packet Length Max', 'Packet Length Std',
+       'Subflow Fwd Bytes', 'FWD Init Win Bytes', 'Fwd Act Data Pkts',
+       'Fwd Seg Size Min', 'Idle Mean', 'Idle Max'],
+      dtype='object')
+
+
+Index(['Src Port', 'Dst Port', 'Total Bwd packets',
+       'Total Length of Bwd Packet', 'Fwd Packet Length Max',
+       'Fwd Packet Length Mean', 'Bwd Packet Length Min',
+       'Bwd Packet Length Mean', 'Flow Bytes/s', 'Flow IAT Min',
+       'Fwd IAT Total', 'Fwd Header Length', 'Fwd Packets/s', 'Bwd Packets/s',
+       'Packet Length Min', 'Subflow Fwd Bytes', 'Fwd Seg Size Min',
+       'Idle Mean', 'Idle Max', 'Idle Min'],
+      dtype='object')
